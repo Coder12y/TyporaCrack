@@ -10,5 +10,5 @@
 - ### Mac
 
   - 下载并安装即可
-  -- 1. Click open Gatekeeper friendly
-  -- 2. Manual install -move typora.app to Applications
+  - 1. Click open Gatekeeper friendly
+  - 2. Manual install -move typora.app to Applications
